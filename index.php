@@ -81,7 +81,6 @@
         } 
 ?>
 <body>
-    
     <div class="container">
         <h1>Calculator PHP</h1>
         <form>
@@ -100,6 +99,5 @@
         </form>
         <footer>by Johan Salazar</footer>
     </div>
-    
 </body>
 </html>
